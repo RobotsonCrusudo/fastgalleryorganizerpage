@@ -1,3 +1,0 @@
-# Fast Gallery Organizer
-
-Welcome!    
